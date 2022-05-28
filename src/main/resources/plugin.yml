@@ -1,0 +1,4 @@
+name: BanJoin
+version: '${project.version}'
+main: com.arr4nn.banjoin.BanJoin
+api-version: 1.13
